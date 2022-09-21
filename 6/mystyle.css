@@ -1,0 +1,63 @@
+
+img{
+    background-position: center;
+    width: 238vh;
+    height: 96vh;
+}
+h1{
+    color:black;
+    margin-left: 378px;
+    display: inline-block;
+    margin-top: 228px;
+    font-size: 100px;
+}
+*{
+       margin: 0; 
+       padding: 0;
+}
+.Wrapper{
+    height: 100vh;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: 100%;
+}
+p{
+    margin-left: 457px;
+    font-size: 29px;
+    margin-top: 13px;
+}
+input{
+    background-color: #4c4ceb;
+    padding: 26px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 650px;
+    margin-top: 30px;
+    color:white;
+    cursor: pointer;
+}
+input:hover{
+    background-color: blue;
+    
+}
+.two{
+    height: 50vh;
+    
+}
+.three{
+    height: 100vh;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    background-position: center;
+    background-size: 100%;
+}
+.four{
+    height: 40vh;
+    background-color:skyblue;
+}
+.five{
+    height: 40vh;
+
+}
+.six{
+    height: 60vh;
+}
